@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="currency-conversion-service" />
+        <module name="currency-conversion-service-01" />
         <module name="currency-exchange-service" />
         <module name="limit-service" />
         <module name="microservices" />
@@ -14,7 +14,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="currency-conversion-service" target="1.8" />
+      <module name="currency-conversion-service-01" target="1.8" />
       <module name="currency-exchange-service" target="1.8" />
       <module name="limit-service" target="1.8" />
       <module name="microservices" target="1.8" />

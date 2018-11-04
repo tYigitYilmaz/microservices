@@ -35,7 +35,7 @@ public class CurrencyExchangeController {
         return exchangeValueRepositoy;
     }
 
-    @RequestMapping(value = "/currency-exhange/from/{from}/to/{to}", method = RequestMethod.GET)
+    @RequestMapping(value = "/currency-exchange/from/{from}/to/{to}", method = RequestMethod.GET)
     public ExchangeValue retrieveExhangeValue(@PathVariable String from, @PathVariable String to) {
         ExchangeValue exchangeValue = exchangeValueRepositoy.findByFromAndTo(from,to);
         exchangeValue.setPort(Integer.parseInt(environment.getProperty("local.server.port")));
