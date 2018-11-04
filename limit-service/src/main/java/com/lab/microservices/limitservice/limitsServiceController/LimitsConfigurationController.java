@@ -1,7 +1,7 @@
 package com.lab.microservices.limitservice.limitsServiceController;
 
 import com.lab.microservices.limitservice.Configuration;
-import com.lab.microservices.limitservice.dao.LimitsConfiguration;
+import com.lab.microservices.limitservice.domain.LimitsConfiguration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

@@ -1,4 +1,4 @@
-package com.lab.microservices.limitservice.dao;
+package com.lab.microservices.limitservice.domain;
 
 public class LimitsConfiguration {
     private int minimum;
