@@ -1,75 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d528e550-cfdb-4a6a-8479-04da9cf0d691" name="Default Changelist" comment="git repo">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_1_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_1_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionController/CurrencyConversionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxy.java" afterDir="false" />
+    <list default="true" id="d528e550-cfdb-4a6a-8479-04da9cf0d691" name="Default Changelist" comment="Zuul API Gateway">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_2_0_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_2_0_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_2_0_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_2_1_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_1_0_M1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_0_M1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_2_0_0_M5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionController/CurrencyConversionController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionDomain/CurrencyConversionBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionDomain/CurrencyConversionBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionService/CurrencyExchangeServiceProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/test/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/CurrencyConversionService01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionController/CurrencyConversionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionDomain/CurrencyConversionBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service-01/src/test/java/com/lab/microservices/currencyconversionservice01/CurrencyConversionService01ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-exchange-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeController/CurrencyExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeController/CurrencyExchangeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/limit-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/limit-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/LimitServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/LimitServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/limit-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/limit-service/src/main/resources/bootstrap.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,6 +101,12 @@
     <ignored path="$PROJECT_DIR$/currency-exchange-service/target/" />
     <ignored path="$PROJECT_DIR$/currency-conversion-service/target/" />
     <ignored path="$PROJECT_DIR$/currency-conversion-service-01/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-eureka-naming-server/target/" />
+    <ignored path="$PROJECT_DIR$/netflux-zuul-api-gateway-server/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-zuul-ap-gateway-server/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-zuul-api-gateway-server/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-zuul-api-gateway-server01/target/" />
+    <ignored path="$PROJECT_DIR$/currency-conversion-service-rev/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,92 +131,64 @@
     <session id="200355381">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="cmd" value="2" />
+          <entry key="class" value="3" />
+          <entry key="cmd" value="3" />
           <entry key="data" value="1" />
-          <entry key="java" value="30" />
-          <entry key="properties" value="13" />
-          <entry key="xml" value="7" />
+          <entry key="java" value="100" />
+          <entry key="properties" value="30" />
+          <entry key="xml" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="30" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Properties" value="13" />
-          <entry key="XML" value="7" />
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="100" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="30" />
+          <entry key="XML" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="1897" />
-          <entry key="properties" value="292" />
+          <entry key="java" value="3058" />
+          <entry key="properties" value="741" />
           <entry key="sql" value="153" />
-          <entry key="txt" value="8" />
-          <entry key="xml" value="89" />
+          <entry key="txt" value="54" />
+          <entry key="xml" value="228" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1897" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Properties" value="292" />
+          <entry key="JAVA" value="3058" />
+          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="Properties" value="741" />
           <entry key="SQL" value="153" />
-          <entry key="XML" value="89" />
+          <entry key="XML" value="228" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionController/CurrencyConversionController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1240#1241#0" expanded="true" />
-                <element signature="e#1299#1300#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/CurrencyConversionService01Application.java">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="54" selection-start-column="54" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="63" />
+            <state relative-caret-position="714">
+              <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -196,48 +197,87 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeController/CurrencyExchangeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/repository/ExchangeValueRepositoy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/mvnw.cmd">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/mvnw.cmd">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionDomain/CurrencyConversionBean.java">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="45" selection-start-line="20" selection-start-column="122" selection-end-line="21" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeController/CurrencyExchangeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-exchange-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -247,8 +287,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -263,38 +303,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/dao/LimitsConfiguration.java" />
-        <option value="$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/Configuration.java" />
-        <option value="$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/limitsServiceController/LimitsConfigurationController.java" />
-        <option value="$PROJECT_DIR$/limit-service/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/git-localconfig-repo/limits-service.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/lab/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.java" />
-        <option value="$PROJECT_DIR$/git-localconfig-repo/limits-service-qa.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/limit-service/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/git-localconfig-repo/limits-service-dev.properties" />
-        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeDao/ExchangeValue.java" />
-        <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
-        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeDomain/ExchangeValue.java" />
-        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/resources/data.sql" />
-        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/repository/ExchangeValueRepositoy.java" />
-        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionDomain/CurrencyConversionBean.java" />
-        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
-        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionService/CurrencyExchangeServiceProxy1.java" />
-        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionService/CurrencyExchangeServiceProxy.java" />
-        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionController/CurrencyConversionController.java" />
-        <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
         <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionDomain/CurrencyConversionBean.java" />
         <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionService01Application.java" />
-        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionService/CurrencyExchangeServiceProxy.java" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/java/com/lab/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/LimitServiceApplication.java" />
+        <option value="$PROJECT_DIR$/limit-service/pom.xml" />
+        <option value="$PROJECT_DIR$/limit-service/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflux-zuul-api-gateway-server/src/main/java/com/lab/microservices/netfluxzuulapigatewayserver/NetfluxZuulApiGatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/netflux-zuul-api-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-zuul-ap-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server01/src/main/java/com/lab/microservices/netflixzuulapigatewayserver01/NetflixZuulApiGatewayServer01Application.java" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/lab/microservices/netflixzuulapigatewayserver/zuulService/ZuulLoginFilter.java" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/lab/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxyConfig.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionController/CurrencyConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionBean/CurrencyConversionBean.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionController/CurrencyConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionProxy/CurrencyExchangeServiceProxy.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeProxy.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionBean.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxy.java" />
         <option value="$PROJECT_DIR$/currency-conversion-service-01/pom.xml" />
         <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/CurrencyConversionService01Application.java" />
-        <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxy.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/CurrencyConversionBean.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/currencyExchangeServiceProxy/currencyExchangeServiceProxy.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/currencyExchangeServiceProxy/CurrencyConversionBean.java" />
         <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeController/CurrencyExchangeController.java" />
-        <option value="$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionController/CurrencyConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/currencyConversionController/CurrencyConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/currencyExchangeServiceProxy/CurrencyExchangeProxy.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/test/java/com/lab/mircoservices/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-rev/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionBean.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeServiceProxyImpl.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-rev/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java" />
       </list>
     </option>
   </component>
@@ -318,30 +377,52 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="currency-conversion-service-01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="currency-conversion-service-01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="currency-conversion-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-29" />
+    <option name="y" value="142" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -352,55 +433,189 @@
             <path>
               <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="limit-service" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service-rev" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="limit-service" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service-rev" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="limit-service" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service-rev" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="limit-service" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service-rev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service-rev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyconversionservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service-rev" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-exchange-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-exchange-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-exchange-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-exchange-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-exchange-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyexchangeservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-exchange-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyexchangeservice" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyExchangeController" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-exchange-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyexchangeservice" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyExchangeDomain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-exchange-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyexchangeservice" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="netflixzuulapigatewayserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="netflixzuulapigatewayserver" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulService" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541363032346" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541490995686" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/git-localconfig-repo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.1632184" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.36666667" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.lab.microservices.currencyexchangeservice.currencyExchangeDao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lab.mircoservices.currencyconversionservice" />
+      <recent name="com.lab.microservices.currencyconversionservice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lab.microservices.currencyconversionservice01.currencyConversionProxy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\otunckaya\Desktop\JavaProject\microservices\git-localconfig-repo" />
@@ -418,10 +633,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CurrencyConversionService01Application">
-    <configuration name="CurrencyConversionService01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="currency-conversion-service-01" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lab.microservices.currencyconversionservice01.CurrencyConversionService01Application" />
+  <component name="RunManager" selected="Spring Boot.CurrencyConversionServiceApplication">
+    <configuration name="CurrencyConversionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-conversion-service-rev" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lab.microservices.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyConversionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-conversion-service-rev" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lab.microservices.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServerAppPort:8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-exchange-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lab.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -429,6 +662,7 @@
     <configuration name="CurrencyExchangeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="currency-exchange-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lab.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -436,6 +670,20 @@
     <configuration name="LimitServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="limit-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lab.microservices.limitservice.LimitServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixEurekaNamingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netflix-eureka-naming-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lab.microservices.netflixeurekanamingserver.NetflixEurekaNamingServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixZuulApiGatewayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netflix-zuul-api-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lab.microservices.netflixzuulapigatewayserver.NetflixZuulApiGatewayServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -448,10 +696,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.CurrencyExchangeServerAppPort:8001" />
       <item itemvalue="Spring Boot.LimitServiceApplication" />
       <item itemvalue="Spring Boot.SpringCloudConfigServerApplication" />
       <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication" />
-      <item itemvalue="Spring Boot.CurrencyConversionService01Application" />
+      <item itemvalue="Spring Boot.NetflixEurekaNamingServerApplication" />
+      <item itemvalue="Spring Boot.NetflixZuulApiGatewayServerApplication" />
+      <item itemvalue="Spring Boot.CurrencyConversionServiceApplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -466,16 +717,19 @@
       <updated>1541339027504</updated>
       <workItem from="1541339036134" duration="19245000" />
       <workItem from="1541358577245" duration="4438000" />
-      <workItem from="1541363191332" duration="1932000" />
+      <workItem from="1541363191332" duration="2783000" />
+      <workItem from="1541429986296" duration="14321000" />
+      <workItem from="1541445026444" duration="12514000" />
+      <workItem from="1541482503904" duration="3173000" />
+      <workItem from="1541490850325" duration="727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25615000" />
+    <option name="totallyTimeSpent" value="57201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
-    <editor active="true" />
+    <frame x="-23" y="114" width="1552" height="840" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -483,25 +737,25 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.33914208" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.29088473" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="3" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Message" order="8" />
-      <window_info anchor="bottom" id="Find" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.1779661" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32909605" />
+      <window_info anchor="bottom" id="Application Servers" order="9" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.51129943" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Maven Projects" order="1" weight="0.19705094" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.23458445" />
       <window_info anchor="right" id="SciView" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
@@ -523,165 +777,124 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/git-local_config-repo" />
     </ignored-roots>
+    <MESSAGE value="Zuul API Gateway" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zuul API Gateway" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/Configuration.java">
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/git-localconfig-repo/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git-localconfig-repo/limits-service-qa.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/lab/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git-localconfig-repo/limits-service.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git-localconfig-repo/limits-service-dev.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency-exchange-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="100" column="50" selection-start-line="100" selection-start-column="50" selection-end-line="100" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/data.sql">
+    <entry file="file://$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/LimitServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limit-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/limit-service/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/limitsServiceController/LimitsConfigurationController.java">
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/limit-service/src/main/java/com/lab/microservices/limitservice/domain/LimitsConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/netflux-zuul-api-gateway-server/src/main/java/com/lab/microservices/netfluxzuulapigatewayserver/NetfluxZuulApiGatewayServerApplication.java" />
+    <entry file="file://$PROJECT_DIR$/netflux-zuul-api-gateway-server/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-ap-gateway-server/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-ap-gateway-server/src/main/java/com/lab/microservices/netflixzuulapgatewayserver/NetflixZuulApGatewayServerApplication.java" />
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/java/com/lab/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server01/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server01/src/main/java/com/lab/microservices/netflixzuulapigatewayserver01/NetflixZuulApiGatewayServer01Application.java" />
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxyConfig.java" />
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/lab/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/lab/microservices/netflixzuulapigatewayserver/zuulService/ZuulLoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeProxy.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionBean.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionController.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/CurrencyConversionService01Application.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionController/CurrencyConversionController.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionBean/CurrencyConversionBean.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/currencyExchangeServiceProxy/currencyExchangeServiceProxy.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxy.java" />
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/test/java/com/lab/mircoservices/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/CurrencyExchangeProxy.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/CurrencyConversionBean.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/mircoservices/currencyconversionservice/CurrencyConversionController.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-sleuth-core/2.0.0.M5/spring-cloud-sleuth-core-2.0.0.M5.jar!/org/springframework/cloud/sleuth/Sampler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeDomain/ExchangeValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="102">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-            <element signature="e#1113#1114#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1202#1203#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/currencyConversionService/CurrencyExchangeServiceProxy1.java" />
-    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#379#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/test/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.0.RELEASE/spring-boot-2.1.0.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="274" selection-start-line="274" selection-end-line="274" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="54" selection-start-column="54" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -689,40 +902,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeServiceProxyImpl.java" />
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/mvnw.cmd">
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/mvnw.cmd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionDomain/CurrencyConversionBean.java">
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="1003">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/pom.xml">
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/CurrencyConversionService01Application.java">
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        <state relative-caret-position="221">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionProxy/CurrencyExchangeServiceProxy.java">
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="63" />
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyConversionBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service-rev/src/main/java/com/lab/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="45" selection-start-line="20" selection-start-column="122" selection-end-line="21" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -731,23 +979,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/lab/microservices/currencyexchangeservice/currencyExchangeController/CurrencyExchangeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency-conversion-service-01/src/main/java/com/lab/microservices/currencyconversionservice01/currencyConversionController/CurrencyConversionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1240#1241#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="243">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -804,11 +1037,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-cloud-config-server</last-edited>
+          <last-edited>netflix-zuul-api-gateway-server</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.1632184" />
+                <option value="0.36666667" />
                 <option value="0.6" />
               </list>
             </option>
