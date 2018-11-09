@@ -6,19 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="currency-conversion-service-rev" />
+        <module name="account-service" />
+        <module name="cur-conversion-service" />
         <module name="currency-exchange-service" />
         <module name="limit-service" />
         <module name="microservices" />
         <module name="netflix-eureka-naming-server" />
         <module name="netflix-zuul-api-gateway-server" />
         <module name="spring-cloud-config-server" />
+        <module name="transaction-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="account-service" target="1.8" />
+      <module name="cur-conversion-service" target="1.8" />
+      <module name="currency-conversion-serv" target="1.8" />
       <module name="currency-conversion-service" target="1.8" />
       <module name="currency-conversion-service-01" target="1.8" />
       <module name="currency-conversion-service-rev" target="1.8" />
+      <module name="currency-conversion-service1" target="1.8" />
+      <module name="currency-conversion01-service" target="1.8" />
+      <module name="currency-cpnversion-serv-try" target="1.8" />
       <module name="currency-exchange-service" target="1.8" />
       <module name="limit-service" target="1.8" />
       <module name="microservices" target="1.8" />
@@ -28,6 +36,7 @@
       <module name="netflix-zuul-api-gateway-server01" target="1.8" />
       <module name="netflux-zuul-api-gateway-server" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
+      <module name="transaction-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

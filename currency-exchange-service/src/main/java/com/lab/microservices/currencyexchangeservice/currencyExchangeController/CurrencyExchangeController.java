@@ -18,7 +18,7 @@ public class CurrencyExchangeController {
 
     private Environment environment;
     private ExchangeValueRepositoy exchangeValueRepositoy;
-    private Logger logger = LoggerFactory.getLogger(this.getClass());
+  /*  private Logger logger = LoggerFactory.getLogger(this.getClass());*/
 
     @Autowired
     public void setEnvironment(Environment environment) {
@@ -42,8 +42,8 @@ public class CurrencyExchangeController {
     public ExchangeValue retrieveExhangeValue(@PathVariable String from, @PathVariable String to) {
         ExchangeValue exchangeValue = exchangeValueRepositoy.findByFromAndTo(from,to);
         exchangeValue.setPort(Integer.parseInt(environment.getProperty("local.server.port")));
-        logger.info("{}",exchangeValue);
-
+       /* logger.info("{}",exchangeValue);
+*/
         return exchangeValue;
     }
 }

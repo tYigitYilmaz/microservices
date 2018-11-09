@@ -2,16 +2,14 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/currency-conversion-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/currency-conversion-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/currency-conversion-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/currency-conversion-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/currency-conversion-service-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cur-conversion-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/currency-conversion-service-rev" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/currency-exchange-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/limit-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netflix-eureka-naming-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transaction-service" charset="UTF-8" />
   </component>
 </project>
